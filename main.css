@@ -1,0 +1,19 @@
+#gallery {
+    display: flex;
+    gap:30px;
+    width:700px;
+    height: 300px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+button {
+    position: fixed;
+    top:0;
+    right: 0;
+    background-color: blue;
+    border-radius: 20%;
+    border: none;
+    height: 60px;
+}
